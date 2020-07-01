@@ -10,17 +10,10 @@ It is a simple game to practice some intriguing combinatorics questions. <br />
 The Meditating Elephant was built on the 'Actions Console', which is the platform for developers to extend the Google Assistant.
 
 # In Action:
-The Meditating Elephant
-![mainpage](TME.jpg)
-
-Logo:
-![mainpage](TMElogo.jpg)
 
 Invocation:
 ![mainpage](ondevice.jpeg)
 
-Main Page:
-![mainpage](ondevice1.jpeg)
 
 # Authors:
 Srinidhi Ayyagari
